@@ -10,7 +10,7 @@ It provides functionalities to load Sudoku puzzles, manually fill in numbers, an
 
 The solver includes a customizable timelaps parameter that allows users to control the speed of the backtracking visualization. By adjusting this parameter, users can slow down the visualization to clearly observe each step of the algorithm as it searches for the solution.
 
-![Sudoku completion](assets/gifs/sudoku0_1.gif)
+![Sudoku completion](assets/gifs/Sudoku0_1.gif)
 
 In addition to the interactive Python version, this project also includes a high-performance Sudoku solver written in C++. 
 
